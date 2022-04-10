@@ -2,4 +2,4 @@
 
 Jogo da velha feito em Html, CSS e JavaScript
 
-O resultado pode ser visualizado aqui -> https://jogodavelh.netlify.app/
+Veja como ficou -> https://jogodavelh.netlify.app/
